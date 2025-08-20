@@ -16,12 +16,24 @@ Always eager to learn, collaborate, and contribute to impactful projects.
 ## 🛠️ Skills  
 
 - **Technical:** Structural design, site supervision, project management, cost estimation, quality control, formwork installation, steel reinforcement, soil works, drawings review.  
-- **Software:** AutoCAD, ETABS, SAFE, CSI Column, SAP2000, Microsoft Excel.  
 - **Soft Skills:** Teamwork, problem solving, decision making, time management, working under pressure.  
 - **Languages:**  
   - Arabic: Native  
   - English: Excellent  
   - Japanese: Intermediate  
+
+---
+
+## 🖥️ Tools & Technologies  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoCAD-EF1C25?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETABS-005571?style=for-the-badge&logo=structural-engineering&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAFE-0086D1?style=for-the-badge&logo=structural-engineering&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP2000-1B72BE?style=for-the-badge&logo=engineering&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSI%20Column-00599C?style=for-the-badge&logo=engineering&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
